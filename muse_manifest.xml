@@ -1,0 +1,31 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="cueseg.edu" resolutions="1x" timestamp="1713639035533">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3831362923" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="cueseglg.png" crc="501313821" seo="true" ref="index"/>
+    <file name="admon.jpg" crc="417111099" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="banerueseg1.jpg" crc="4202716125" seo="true" ref="index"/>
+    <file name="eduficica.jpg" crc="360413868" seo="true" ref="index"/>
+    <file name="enfer.jpg" crc="40148797" seo="true" ref="index"/>
+    <file name="lengua.jpg" crc="4032184645" seo="true" ref="index"/>
+    <file name="sistemas.jpg" crc="267081311" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="barra.png" crc="4215732260" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3838491314" seo="true" mt="1710616453250" redirect="true"/>
+</manifest>
